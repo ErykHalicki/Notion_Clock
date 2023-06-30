@@ -1,4 +1,4 @@
-# Notion_Display
+# Notion_Clock
  LCD display that connects to Notion API, kind of an advanced desk clock
 ## Topics: REST API, 3d modelling
 
