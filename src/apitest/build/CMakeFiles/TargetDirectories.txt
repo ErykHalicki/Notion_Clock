@@ -1,0 +1,3 @@
+/Users/erykhalicki/desktop/projects/timemachine/src/apitest/build/CMakeFiles/apitest.dir
+/Users/erykhalicki/desktop/projects/timemachine/src/apitest/build/CMakeFiles/edit_cache.dir
+/Users/erykhalicki/desktop/projects/timemachine/src/apitest/build/CMakeFiles/rebuild_cache.dir
