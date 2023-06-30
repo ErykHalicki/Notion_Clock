@@ -8,4 +8,4 @@ It then grabs all the events that have dates and calculates the time remaining u
 
 To practice working with web APIS on the ESP32, I also added weather forecast functionality, making this kind of like an advanced desk clock
 
-![IMG_1012.JPG](photos/IMG_1012.JPG)
+![IMG_1012.JPG](photos/IMG_1012.jpg)
